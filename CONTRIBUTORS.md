@@ -53,6 +53,7 @@
 - [Ritik Gupta](https://github.com/ritik-gupta)
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
+- [Rupinderjeet Singh](https://github.com/rupinder199)
 - [Sahildeep Singh](https://github.com/sahilcodes)
 - [Samuel Tonini](https://github.com/samuel-tonini)
 - [Shriram Navaratnalingam](https://github.com/ShriLingam23)
